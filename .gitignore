@@ -1,0 +1,5 @@
+node_modules/
+public/
+```
+
+This is a basic React application with a professional UI, navigation, and routing. You can run the application by executing `npm start` in the terminal.
